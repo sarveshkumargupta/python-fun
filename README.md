@@ -1,3 +1,3 @@
-# python-fun
+# Python Fun
 
-In this reposetory you will find having some fun with python
+This repository contains multiple Python programs to do intresting things...
